@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>HTML Tags</title>
+</head>
+<body>
+<h1 align="center">Jacob Ponulak</h1>
+
+<font size=2>This is an absolute font of 2</font>
+<font size=6>This is an absolute font of 6</font>
+<font size=+3>This is a relative font of +3</font>
+<font size=+5>This is a relative font of +5</font>
+<font size=-5>This is a relative font of -5</font>
+<hr>
+
+<h1>Heading Level 1</h1>
+<h2 align="center">Heading Level 2</h2>
+<h3>Heading Level 3</h3>
+<h4>Heading Level 4</h4>
+<h5 align="right">Heading Level 5</h5>
+<h6>Heading Level 6</h6>
+<hr>
+<b>Default Horizontal Rule</b>
+<hr><p>
+
+<b>WIDTH=50%</b>
+<hr width=50%><p>
+<B>WIDTH=50%, ALIGN=LEFT<p>
+<hr width=50% align=left><p>
+
+
+<B>WIDTH=75%, ALIGN=RIGHT, SIZE=10</B>
+<hr width=75% align=right size=10><p>
+
+<font size=+1>Character Entity Reference</font><p>
+<ul>
+Copyright symbol&copy;<br>
+Reigstered symbol&reg;<br>
+Ampersand &amp;<br>
+Quotation Mark &quot;<p>
+</ul>
+
+I can even insert additional &nbsp; &nbsp; &nbsp; &nbsp; horizontal spaces<p>
+<hr size=4 width=50% align=left><p>
+
+<font size =+1>Character Numeric References</font><p>
+<ul>
+Zero sum symbol &#216;<br>
+Legal section symbol &#167;<br>
+Percentage Symbol &#137;<br>
+Japanese yen symbol &#165;<br>
+Paragraph symbol &#182;
+<p>
+</ul>
+
+I can even insert additional &#160 &#160 &#160 &#160; horizontal spaces<p>
+<hr size=4 width=50% align=left><p>
+
+<font size =+3 color=green><b>This text is green</b></font><br>
+<font size=+2 color=red face="arial"><b>This text is red and Arial font</b></font><p>
+
+</body>
+</html>
